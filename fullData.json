@@ -49,19 +49,19 @@
 		],
 		[
 			"image",
-			"https://cryptologos.cc/logos/baby-doge-coin-babydoge-logo.png"
+			"https://raw.githubusercontent.com/svgvr8/solana-token/refs/heads/main/dog.png"
 		],
 		[
 			"image_large",
-			"https://cryptologos.cc/logos/baby-doge-coin-babydoge-logo.png"
+			"https://raw.githubusercontent.com/svgvr8/solana-token/refs/heads/main/dog.png"
 		],
 		[
 			"image_icon",
-			"https://cryptologos.cc/logos/baby-doge-coin-babydoge-logo.png"
+			"https://raw.githubusercontent.com/svgvr8/solana-token/refs/heads/main/dog.png"
 		]
 	],
 	"image": {
-		"url": "https://cryptologos.cc/logos/baby-doge-coin-babydoge-logo.png",
+		"url": "https://raw.githubusercontent.com/svgvr8/solana-token/refs/heads/main/dog.png",
 		"type": "image/png",
 		"width": 200,
 		"height": 200
@@ -69,17 +69,17 @@
 	"properties": {
 		"files": [
 			{
-				"uri": "https://cryptologos.cc/logos/baby-doge-coin-babydoge-logo.png",
+				"uri": "https://raw.githubusercontent.com/svgvr8/solana-token/refs/heads/main/dog.png",
 				"type": "image/png",
 				"cdn": false
 			},
 			{
-				"uri": "https://cryptologos.cc/logos/baby-doge-coin-babydoge-logo.png",
+				"uri": "https://raw.githubusercontent.com/svgvr8/solana-token/refs/heads/main/dog.png",
 				"type": "image/png",
 				"cdn": false
 			},
 			{
-				"uri": "https://cryptologos.cc/logos/baby-doge-coin-babydoge-logo.png",
+				"uri": "https://raw.githubusercontent.com/svgvr8/solana-token/refs/heads/main/dog.png",
 				"type": "image/png",
 				"cdn": false
 			}
